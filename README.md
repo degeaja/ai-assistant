@@ -7,9 +7,21 @@
 
 ## <span style="color:#5AEAF5">Best practices </span>
 - [x] install PEP8
+- [x] setup folders to contain __init__.py and packages in modules and classes
+
+## <span style="color:#5AEAF5"> AI Assistant Rundown </span>
 - [x] setup chromadb and embedding
 - [x] try to store files and run a RAG chain
-- [x] setup folders to contain __init__.py and packages in modules and classes
+- [x] AI RAG Chain
+- [ ] Improvements:
+   - [ ] multi RAG -- retriever kwargs
+   - [ ] framework handling (Agents and Routers)
+   - [ ] tools:
+      - [ ] summarizer,
+      - [ ] paraphraser,
+      - [ ] programming ability
+      - [ ] image processing
+  
 ## <span style="color:#5AEAF5">Small projects </span>
 - [ ] Automation for file sorting and naming.
    - [ ] File sorting for NTU Files
