@@ -6,10 +6,10 @@
 # <p style="text-align: center;"> <span style = "color: #F5890F;"> To-Do Lists </span></p>
 
 ## <span style="color:#5AEAF5">Best practices </span>
-- [ ] install PEP8
-- [ ] setup chromadb and embedding
-- [ ] try to store files and run a RAG chain
-- [ ] setup folders to contain __init__.py and packages in modules and classes
+- [x] install PEP8
+- [x] setup chromadb and embedding
+- [x] try to store files and run a RAG chain
+- [x] setup folders to contain __init__.py and packages in modules and classes
 ## <span style="color:#5AEAF5">Small projects </span>
 - [ ] Automation for file sorting and naming.
    - [ ] File sorting for NTU Files
